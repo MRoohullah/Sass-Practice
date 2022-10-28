@@ -1,0 +1,26 @@
+// declare a variabels in Sass
+
+$mainColor:#fff322 ;
+$myFontColor :#454e32;
+$myfont : arial;
+$paraSize:20px;
+
+
+body{
+    background-color: $mainColor;
+    $fontBold:bold !global;
+    $Underline : underline !global;
+}
+p{
+    color: $myFontColor;
+    font-family: $myfont;
+    font-size: $paraSize;
+    font-weight: $fontBold;
+    
+}
+h3{
+    color: green;
+    font-weight: $fontBold;
+    text-decoration: $Underline;
+   
+}

@@ -1,0 +1,18 @@
+buttonStyle{
+    border:1px solid rgb(249, 235, 235);
+    padding: 10px 15px;
+    background-color: rgb(236, 13, 13);
+    color: rgb(0, 0, 0);
+    border-radius: 10%;
+    font-weight: bold;
+    &:hover{
+        background-color: rgb(194, 38, 38);
+        border:1px solid rgb(255, 0, 0);
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+    }
+}
+.btn1,.btn2,.btn3,.btn4{
+    @extend buttonStyle;
+}
+

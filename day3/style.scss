@@ -1,0 +1,15 @@
+@import "variables";
+body{
+    background-color: $mainColor;
+}
+div{
+    background-color: $divColor;
+    padding: 20px 40px;
+    border: $border;
+    box-shadow: $boxShadow;
+}
+p{
+    color:$paraColor;
+    background-color: oldlace;
+    padding: 20px 40px;
+}

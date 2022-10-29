@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(255, 193, 78);
+}
+
+div {
+  background-color: rgb(218, 217, 126);
+  padding: 20px 40px;
+  border: 1px solid orange;
+  box-shadow: 2px 2px 20px 2px rgb(11, 9, 9);
+}
+
+p {
+  color: rgb(208, 204, 204);
+  background-color: oldlace;
+  padding: 20px 40px;
+}/*# sourceMappingURL=style.css.map */

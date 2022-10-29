@@ -1,0 +1,36 @@
+.para1 {
+  border: 2px solid blue;
+  width: 600px;
+  padding: 10px 40px;
+  margin: 10px auto;
+  color: rgb(162, 142, 142);
+  font-size: large;
+}
+
+.para2 {
+  border: 2px solid blue;
+  width: 600px;
+  padding: 10px 40px;
+  margin: 10px auto;
+  color: rgb(162, 142, 142);
+  font-size: large;
+  color: orange;
+}
+
+.para3 {
+  border: 2px solid blue;
+  width: 600px;
+  padding: 10px 40px;
+  margin: 10px auto;
+  color: rgb(162, 142, 142);
+  font-size: large;
+}
+
+.para4 {
+  border: 2px solid blue;
+  width: 700px;
+  padding: 10px 40px;
+  margin: 10px auto;
+  color: blue;
+  font-size: 22px;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,15 @@
+@import "setting";
+
+.para1{
+    @include myParaStyle;
+}
+.para2{
+    @include myParaStyle;
+    color: orange;
+}
+.para3{
+    @include myParaStyle;
+}
+.para4{
+    @include myParaStyle2(blue);
+}

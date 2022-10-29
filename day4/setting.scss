@@ -1,0 +1,16 @@
+@mixin myParaStyle {
+    border: 2px solid blue;    
+    width: 600px;
+    padding: 10px 40px;
+    margin: 10px auto;
+    color: rgb(162, 142, 142);
+    font-size: large;
+}
+@mixin  myParaStyle2($color) {
+    border: 2px solid blue;    
+    width: 700px;
+    padding: 10px 40px;
+    margin: 10px auto;
+    color: $color;
+    font-size: 22px;
+}

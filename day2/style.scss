@@ -1,0 +1,24 @@
+// Nested properties
+$mainColor : rgba(135, 230, 1, 0.267);
+$myPadd: 20px 30px;
+$center : 10px auto;
+body{
+    background-color: $mainColor;
+}
+div{
+    width: 70%;
+    border: 1px solid orange;
+    background-color: grey;
+    padding: $myPadd;
+    margin: $center;
+    h1{
+        color: white;
+    }
+    h2{
+        color: white;
+    }
+    p{
+        color: white;
+    }      
+
+}

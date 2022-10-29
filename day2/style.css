@@ -1,0 +1,20 @@
+body {
+  background-color: rgba(135, 230, 1, 0.267);
+}
+
+div {
+  width: 70%;
+  border: 1px solid orange;
+  background-color: grey;
+  padding: 20px 30px;
+  margin: 10px auto;
+}
+div h1 {
+  color: white;
+}
+div h2 {
+  color: white;
+}
+div p {
+  color: white;
+}/*# sourceMappingURL=style.css.map */
